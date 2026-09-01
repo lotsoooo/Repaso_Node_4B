@@ -1,0 +1,24 @@
+{
+  "name": "repaso_node_4b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotsoooo/Repaso_Node_4B.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lotsoooo/Repaso_Node_4B/issues"
+  },
+  "homepage": "https://github.com/lotsoooo/Repaso_Node_4B#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
